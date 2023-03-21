@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding , Machine learning , SQL,  etc 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me on instagram devbrahman888
+- 📫 How to reach me on Email - devpathak888@gmail.com
 
 <!---
 devpathak888/devpathak888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
